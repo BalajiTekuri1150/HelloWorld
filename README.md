@@ -3,5 +3,8 @@ Hello World Program
 #include<stdio.h>
 void main()
 {
-  printf("Hello World");
+  for(int i=0;i<=10;i++)
+  {
+    printf(i);
+  }
 }
